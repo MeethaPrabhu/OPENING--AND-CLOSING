@@ -65,7 +65,8 @@ plt.axis("off")
 
 
 ### Display the result of Closing
-<br>![Uploading image.png…]()
+<br>![image](https://github.com/MeethaPrabhu/OPENING--AND-CLOSING/assets/119401038/a55055a6-cca6-4226-9d05-0e799e8120b0)
+
 
 
 
